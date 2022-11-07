@@ -39,7 +39,7 @@ body{
     background-color: rgb(12, 13, 14);
 }
 .background-shapes{
-    position: fixed;
+    position: absolute;
     
 }
 .Name{
