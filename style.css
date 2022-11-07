@@ -40,7 +40,7 @@ body{
 }
 .background-shapes{
     position: fixed;
-    z-index: -1;
+    
 }
 .Name{
     position: relative;
